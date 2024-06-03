@@ -1,0 +1,82 @@
+[
+  {
+      "id":1,
+      "name":"Story Book",
+      "title":"A Historic Story",
+      "price":459,
+      "category":"Free",
+      "image":"https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 2,
+      "name": "Mystery Novel",
+      "title": "Unravel the Secrets",
+      "price": 799,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 3,
+      "name": "Sci-Fi Adventure",
+      "title": "Journey to the Stars",
+      "price": 849,
+      "category": "Free",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 4,
+      "name": "Fantasy Epic",
+      "title": "Realm of Dragons",
+      "price": 699,
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 5,
+      "name": "Romantic Comedy",
+      "title": "Love & Laughter",
+      "price": 579,
+      "category": "Free",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 6,
+      "name": "Horror Thriller",
+      "title": "Nightmares Unleashed",
+      "price": 499,
+      "category": "Horror",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 7,
+      "name": "Cookbook",
+      "title": "Culinary Delights",
+      "price": 399,
+      "category": "Food",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 8,
+      "name": "Historical Fiction",
+      "title": "Echoes of the Past",
+      "price": 349,
+      "category": "Free",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 9,
+      "name": "Action-Packed",
+      "title": "Adrenaline Rush",
+      "price": 299,
+      "category": "Action",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  },
+  {
+      "id": 10,
+      "name": "Self-Help Guide",
+      "title": "Paths to Success",
+      "price": 249,
+      "category": "Free",
+      "image": "https://img.freepik.com/premium-photo/book-stack-learning-knowledge-library-dictionary-education-concept-white-background-3d-illustration_979495-119325.jpg?w=740"
+  }
+]
